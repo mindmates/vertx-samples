@@ -1,0 +1,13 @@
+{
+  "name": "vertx-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "./node_modules/.bin/vertx run launcher.js"
+  },
+  "author": "alex yum",
+  "license": "ISC",
+  "dependencies": {
+      "vertx3-full": "^3.0.0-1"
+  }
+}
